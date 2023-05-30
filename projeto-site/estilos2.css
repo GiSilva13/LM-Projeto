@@ -1,0 +1,78 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-image: linear-gradient(to right, #fff2a9, #e97676, #c1ecfd);
+}
+
+ul{
+    list-style: none;
+    
+}
+#Menu ul li{
+    display: inline;
+    padding: 15px;
+    
+    
+}
+#Menu :hover{
+    color: black;
+}
+li a{
+    color: #3485a5;
+    font-family: 'Patrick Hand', cursive;
+}
+h1{
+    font-family: 'Oooh Baby', cursive;
+    font-weight: 700;
+    color: #3485a5;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 300px;
+    margin-left: 250px;
+}
+
+h2{
+    font-family: 'Oooh Baby', cursive;
+    font-style: italic;
+    color: #3485a5;
+    text-align: center;
+    margin-bottom: 15px;
+}
+p{
+    padding: 15px 0;
+    align-items: center;
+    font-family: 'Wix Madefor Text', sans-serif;
+}
+img{
+    width: 400px;
+    margin-top: 50px;
+    
+}
+.card{
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+
+.ptext-vida{
+    width: 800px;
+    text-align: center;
+    margin-left: 350px;
+}
+.ptext-abortos{
+    width: 800px;
+    text-align: center;
+    margin-left: 350px;
+}
+.ptext-VidaAmorosa{
+    width: 800px;
+    text-align: center;
+    margin-left: 350px;
+}
+.ptext-morte{
+    width: 800px;
+    text-align: center;
+    margin-left: 350px;
+}

@@ -1,0 +1,64 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+ul{
+    list-style: none;
+    
+}
+#Menu ul li{
+    display: inline;
+    padding: 15px;
+    
+    
+}
+#Menu :hover{
+    color: black;
+}
+li a{
+    color: #3485a5;
+    font-family: 'Patrick Hand', cursive;
+}
+.container{
+    text-align: center;
+    margin-bottom: 20px;
+    
+    
+}
+.card{
+    margin-left: 10px;
+    
+}
+h1{
+    font-family: 'Playfair Display ', serif;
+    font-style: italic;
+    color: #45a0c4;
+    margin-bottom: 50px;
+}
+h2{
+
+    font-family: 'Playfair Display ', serif;
+    font-style: italic;
+    color: #45a0c4;  
+}
+body{
+    background-image: linear-gradient(to right, #fae987, #ffa2a2, #ace7ff);
+}
+img{
+    width: 350px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+p{
+    font-family: 'Wix Madefor Text', sans-serif;
+    margin-right: 500px;
+    width: 500px;
+    padding-bottom: 50px;
+    text-align: justify;
+    float: right;
+
+}
+
+
