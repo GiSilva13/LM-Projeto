@@ -20,6 +20,7 @@ h2{
 img{
     width: 400px;
 }
+
 p{
     padding: 15px 0;
     align-items: center;
@@ -30,8 +31,6 @@ ul{
     list-style: none;
     
 }
-
-
 
 #Menu ul li{
     display: inline;
